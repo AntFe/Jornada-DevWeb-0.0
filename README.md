@@ -1,6 +1,10 @@
 # Jornada-DevWeb-0.0
 Jornada de aprendizado em 5 meses
 
+# O que falta nesse plano?
+> Aprender sobre vulnerabilidades e práticas de segurança dos sistemas
+> Design Patterns, documentação e engenharia de software básica
+
 # 📅 Plano Semanal de Estudos Fullstack (Set 2025 → Jan 2026)
 
 > Estudo: **1h/dia, 6 dias/semana (~6h/semana)**  
